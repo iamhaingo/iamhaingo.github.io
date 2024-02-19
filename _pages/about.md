@@ -14,7 +14,7 @@ A data-driven personal website
 
 🧑🏽‍💻 M.Sc. in AI for Science at AIMS South Africa.
 
-🧬 My research interest is the application of artificial intelligence in scientific domain.
+🧬 Highly motivated in using generative ML for scientific discovery in high impact domain such as healthcare and climate change.
 
 <!-- 
 
