@@ -14,7 +14,7 @@ A data-driven personal website
 
 🧑🏽‍💻 M.Sc. in AI for Science at AIMS South Africa.
 
-🧬 My research interest are NLP, Reinforcement Learning and application for AI in Science (Healthcare, Climate Change)
+🧬 My research interest is the application of artificial intelligence in scientific domain.
 
 <!-- 
 
