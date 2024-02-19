@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏾 Hello, I'm Haingo"
+title: "Hello, I'm Haingo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ redirect_from:
 A data-driven personal website
 ====== -->
 
-🧑🏽‍💻 M.Sc. in AI for Science at AIMS South Africa.
+💻 M.Sc. in AI for Science at AIMS South Africa.
 
 🧬 Highly motivated in using generative ML for scientific discovery in high impact domain such as healthcare and climate change.
 
