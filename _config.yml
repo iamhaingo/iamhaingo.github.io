@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haingo's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Haingo Andry"
-description              : &description "personal description"
+description              : &description "ML student"
 url                      : https://iamhaingo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iamhaingo/iamhaingo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haingo Andry"
   avatar           : "profile.png"
-  bio              : "AI for Science"
+  bio              : "Artificial intelligence for Science"
   location         : "Muizenberg, South Africa"
   employer         :
   pubmed           : 
