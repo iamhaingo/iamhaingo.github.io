@@ -12,9 +12,12 @@ redirect_from:
 A data-driven personal website
 ====== -->
 
-💻 M.Sc. in AI for Science at AIMS South Africa.
+💻 M.Sc. in Artificial Intelligence for Science at the African Institute for Mathematical sciences in South Africa.
 
-🧬 Interested in using generative ML and foundational models for scientific discovery.
+🧬 Research interests:
+ - Mathematical Machine Learning
+ - Machine Learning for scientific discovery
+ - AI for sustainability
 
 <!-- 
 
