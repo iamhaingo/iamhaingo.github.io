@@ -15,9 +15,8 @@ A data-driven personal website
 💻 M.Sc. in Artificial Intelligence for Science at the African Institute for Mathematical sciences in South Africa.
 
 🧬 Research interests:
- - Computational methods
- - Mathematical Machine Learning
  - Machine Learning for scientific discovery
+ - Mathematical Machine Learning
  - AI for sustainability
 
 <!-- 
