@@ -4,8 +4,8 @@ main:
     # url: /cv/
     url: /files/cv.pdf
 
-  - title: "Portfolio/Projects"
-    url: /portfolio/
+  # - title: "Portfolio/Projects"
+  #   url: /portfolio/
 
   - title: "Publications"
     url: /publications/
