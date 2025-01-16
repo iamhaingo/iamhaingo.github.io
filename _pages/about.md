@@ -16,7 +16,8 @@ A data-driven personal website
 
 🧬 Research interests:
  - AI/ML for scientific discovery
- - Mathematical Machine Learning
+ - Geometric Deep Learning
+ - Trustworthy Machine Learning 
 
 <!-- 
 
