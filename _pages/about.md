@@ -18,6 +18,9 @@ A data-driven personal website
  - AI/ML for scientific discovery
  - Geometric Deep Learning
  - Trustworthy Machine Learning 
+ 
+
+ Meet with me [here](https://cal.com/haingo-andry/30min) ☕️. 
 
 <!-- 
 
